@@ -18,7 +18,6 @@ PivotCharts and Slicers let us turn large datasets into clear visual insights. W
 
 <br>
 
-
 - [Tableau]  - 
 - [Power BI] - 
 - [SQL]      -
