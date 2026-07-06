@@ -12,7 +12,10 @@ Below you will find a variety of projects from my Data Analysis course that show
 
 
 ## Projects I have completed:
-- [Excel]    - This is an example of some data visual's on Excel of [Pivot Tables and graphs.](https://1drv.ms/x/c/da296227c5bf3081/IQAyR_7KvFqCSIRgOi6YH2HiASpUQgigvyGJBnWrJM2Qy7A?e=g9bFUd) PivotCharts and Slicers, we can incorporate visualisations for a wide selection of data, then use the built-in tools to drill down to specific criteria that we might want to investigate. For instance, shown here, we can see that Young Adult Male’s are most predominantly buying clothing items, followed closely by Beauty products. However, changing the age range to Senior shows a dramatic increase in the purchase of Electronics over clothing and beauty. Excel Pivot Tables and Charts
+- [Excel]    - This is an example of some data visual's on Excel of [Pivot Tables and graphs.](https://1drv.ms/x/c/da296227c5bf3081/IQAyR_7KvFqCSIRgOi6YH2HiASpUQgigvyGJBnWrJM2Qy7A?e=g9bFUd) 
+<br>
+PivotCharts and Slicers let us turn large datasets into clear visual insights. We can quickly switch between categories, age groups or product types to see how buying behaviour changes. This makes it easy to spot trends at a glance. For example, the chart shows that Young Adult males buy mostly Clothing and Beauty products, but switching the age group to Seniors reveals a sharp rise in Electronics purchases. These tools help us compare segments instantly and understand how different customers behave.
+<br>
 - [Tableau]  - 
 - [Power BI] - 
 - [SQL]      -
