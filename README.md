@@ -10,7 +10,7 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 
 ## Projects I have completed:
-- [Excel]    - [This is an example of some data visual's on Excel of Pivot Tables and graphs.](https://1drv.ms/x/c/da296227c5bf3081/IQAyR_7KvFqCSIRgOi6YH2HiASpUQgigvyGJBnWrJM2Qy7A?e=g9bFUd)
+- [Excel]    - This is an example of some data visual's on Excel of [Pivot Tables and graphs.](https://1drv.ms/x/c/da296227c5bf3081/IQAyR_7KvFqCSIRgOi6YH2HiASpUQgigvyGJBnWrJM2Qy7A?e=g9bFUd)
 - [Tableau]  - 
 - [Power BI] - 
 - [SQL]      -
