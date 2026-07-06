@@ -1,4 +1,4 @@
-Hi, I’m Chris👋
+## Hi, I’m Chris👋
 <br>
 I’m building my portfolio to show the projects I created during my Data Analysis course.
 
