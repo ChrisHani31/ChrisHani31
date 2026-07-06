@@ -6,9 +6,9 @@ Below you will find a variety of projects from my Data Analysis course that show
 
 ## Areas that I have covered during my course:
 - **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.
-- **SQL / MySQL Workbench   **  - Database structuring, creating, reading, updating & deleting records.
-- **Tableau / Power BI **       - Navigation & features & functions of both visualisation tools. 
-- **Python / Google Colab     **- Using simple syntax to analyse & automate.
+- **SQL/ My SQL Workbench**  - Database structuring, creating, reading, updating & deleting records.
+- **Tableau / Power BI**       - Navigation & features & functions of both visualisation tools. 
+- **Python / Google Colab** - Using simple syntax to analyse & automate.
 
 
 ## Projects I have completed:
