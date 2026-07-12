@@ -1,5 +1,6 @@
-<!-- Blue Creative Data Analyst Banner -->
-<img src="https://copilot.microsoft.com/th/id/BCO.c278d752-b189-4a56-aa11-306f1f01d091.png" alt="Chris Data Analyst Banner" width="100%" height="150">
+<!-- Slim Blue Creative Data Analyst Banner -->
+<img src="https://copilot.microsoft.com/th/id/BCO.e025e753-ac55-4ea3-b814-10a913b54c15.png" alt="Chris Data Analyst Banner" width="100%">
+
 
 ### Data Analysis Portfolio
 
