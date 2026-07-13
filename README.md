@@ -7,13 +7,13 @@
 
 ## Hi, I’m Chris👋
 <br>
-Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion porjects as well to view.
+An aspiring Data Analyst who's looking to join this ever-growing industry and pull up my sleeves on day one. Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion porjects as well to view.
 
-## Areas that I have covered during my course:
-- **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.
-- **SQL/ My SQL Workbench**  - Database structuring, creating, reading, updating & deleting records.
-- **Tableau / Power BI**       - Navigation & features & functions of both visualisation tools. 
-- **Python / Google Colab** - Using simple syntax to analyse & automate.
+## ✨ What I've learnt:
+- 📈 **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.
+- 📊 **SQL/ My SQL Workbench**  - Database structuring, creating, reading, updating & deleting records.
+- 📔 **Tableau / Power BI**       - Navigation & features & functions of both visualisation tools. 
+- 🐍 **Python / Google Colab** - Using simple syntax to analyse & automate.
 
 
 ## Projects I have completed:
