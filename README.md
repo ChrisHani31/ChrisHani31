@@ -3,8 +3,7 @@
   <img src="https://copilot.microsoft.com/th/id/BCO.129eea8d-889d-4161-944f-5a38e44c53a6.png"
        alt="Chris Data Analyst Banner"
        style="width:100%; margin-top:-20px; margin-bottom:-20px;">
-</div><!-- Slim Blue Creative Data Analyst Banner (Circular Profile Version) -->
-<img src="https://copilot.microsoft.com/th/id/BCO.129eea8d-889d-4161-944f-5a38e44c53a6.png" alt="Chris Data Analyst Banner" width="100%">
+</div>
 
 
 ### Data Analysis Portfolio
