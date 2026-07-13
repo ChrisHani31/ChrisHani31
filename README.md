@@ -1,9 +1,7 @@
-<!-- Clean Cropped Slim Blue Banner -->
-<div style="overflow:hidden; height:200px;">
-  <img src="https://copilot.microsoft.com/th/id/BCO.129eea8d-889d-4161-944f-5a38e44c53a6.png"
-       alt="Chris Data Analyst Banner"
-       style="width:100%; margin-top:-25px; margin-bottom:-25px;">
-</div>
+<!-- Chris Data Analysis Portfolio Banner -->
+<p align="center">
+  <img src="qw8uiDgE8xWzN9BzswPsY.png" alt="Chris Data Analysis Portfolio Banner" width="100%">
+</p>
 
 ### Data Analysis Portfolio
 
