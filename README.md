@@ -6,11 +6,14 @@
 
 ## Hi, I’m Chris👋
 <br>
-An aspiring Data Analyst who's looking to join this ever-growing industry and pull up my sleeves on day one. Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion porjects as well to view.
+An aspiring Data Analyst who's looking to join this ever-growing industry and pull up my sleeves on day one. Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion projects to view.
 
-[Check out my LinkedIn] to connect(https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
+## Discover more about me 👇
 
-## ✨ What I've learnt:
+[LinkedIn](https://www.linkedin.com/in/chris-njoroge-3b1197174/)
+
+
+## ✨ The Programs I have learnt:
 - 📈 **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.
 - 📊 **SQL/ My SQL Workbench**  - Database structuring, creating, reading, updating & deleting records.
 - 📔 **Tableau / Power BI**       - Navigation & features & functions of both visualisation tools. 
