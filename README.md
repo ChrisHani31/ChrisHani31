@@ -12,7 +12,6 @@ An aspiring Data Analyst who's looking to join this ever-growing industry and pu
 [LinkedIn](https://www.linkedin.com/in/chris-njoroge-3b1197174/)
 
 <br>
-
 ## 🛠️ Tools & Skills  
 Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
 
@@ -24,9 +23,9 @@ Skills include: formatting, formulas, PivotTables, slicers, and trend analysis.
 
 <br>
 Insights:
-Adults aged 35–64 show the highest purchase volume.
-Adults aged 25–34 follow closely, indicating strong mid‑career spending.
-Youth under 25 have the lowest totals, suggesting lower disposable income
+- Adults aged 35–64 show the highest purchase volume.
+- Adults aged 25–34 follow closely, indicating strong mid‑career spending.
+- Youth under 25 have the lowest totals, suggesting lower disposable income
 
 ### 🧩 SQL / MySQL Workbench  
 Building and querying databases using **CREATE**, **SELECT**, **UPDATE**, **DELETE**, joins, filtering, and aggregation.  
