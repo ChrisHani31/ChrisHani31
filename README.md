@@ -14,7 +14,6 @@ An aspiring Data Analyst who's looking to join this ever-growing industry and pu
 
 <br>
 
-
 ## 🛠️ Tools & Skills  
 Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
 
