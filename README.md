@@ -15,11 +15,11 @@ LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
 
 ## 🛠️ Tools & Skills  
 <p>
-<img src="https://img.shields.io/badge/-?logo=microsoft-excel&logoColor=217346&style=flat" height="20">
-<img src="https://img.shields.io/badge/-?logo=databricks&logoColor=CC2927&style=flat" height="20">
-<img src="https://img.shields.io/badge/-?logo=python&logoColor=3776AB&style=flat" height="20">
-<img src="https://img.shields.io/badge/-?logo=tableau&logoColor=E97627&style=flat" height="20">
-<img src="https://img.shields.io/badge/-?logo=powerbi&logoColor=F2C811&style=flat" height="20">
+<img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" height="20">
+<img src="https://img.shields.io/badge/-SQL-CC2927?logo=databricks&logoColor=white&style=flat-square" height="20">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" height="20">
+<img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" height="20">
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="20">
 </p>
 
 
