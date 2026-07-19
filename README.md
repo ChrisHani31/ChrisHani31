@@ -23,11 +23,6 @@ Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set 
 Turning raw datasets into clear tables, PivotCharts, and interactive dashboards.  
 Skills include: formatting, formulas, PivotTables, slicers, and trend analysis.
 
-<br>
-Insights:
-- Adults aged 35–64 show the highest purchase volume.
-- Adults aged 25–34 follow closely, indicating strong mid‑career spending.
-- Youth under 25 have the lowest totals, suggesting lower disposable income
 
 ### 🧩 SQL / MySQL Workbench  
 Building and querying databases using **CREATE**, **SELECT**, **UPDATE**, **DELETE**, joins, filtering, and aggregation.  
@@ -53,7 +48,7 @@ Key insights:
 - Adults aged **25–34** followed closely  
 - Youth under **25** had the lowest totals  
 
-👉 **View Project:** (add link once repo is created)
+👉 **View Project:** This is an example of some data visuals in Excel of [Pivot Tables and graphs.](https://1drv.ms/x/c/da296227c5bf3081/IQAyR_7KvFqCSIRgOi6YH2HiASpUQgigvyGJBnWrJM2Qy7A?e=g9bFUd)
 
 ---
 
