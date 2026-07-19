@@ -13,6 +13,8 @@ An aspiring Data Analyst who's looking to join this ever-growing industry and pu
 [LinkedIn](https://www.linkedin.com/in/chris-njoroge-3b1197174/)
 
 <br>
+
+
 ## ✨ The Programs I have learnt:
 - 📈 **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.
 - 📊 **SQL/ My SQL Workbench**  - Database structuring, creating, reading, updating & deleting records.
