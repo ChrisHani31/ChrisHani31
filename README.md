@@ -41,7 +41,7 @@ Projects include segmentation, trend analysis, and simple automation scripts.
 
 ## 📁 Projects I Have Completed
 
-### 📊 Excel — Retail Sales Dashboard  
+### 📊 Excel: Retail Sales Dashboard  
 A PivotTable‑driven dashboard exploring buying patterns across age groups.  
 Key insights:  
 - Adults aged **35–64** showed the highest purchase numbers  
@@ -52,7 +52,7 @@ Key insights:
 
 ---
 
-### 🐍 Python — Customer Segmentation  
+### 🐍 Python: Customer Segmentation  
 Using pandas + scikit‑learn to cluster customer groups and identify behavioural patterns.  
 Includes data cleaning, EDA, clustering, and visualisation.
 
@@ -60,7 +60,7 @@ Includes data cleaning, EDA, clustering, and visualisation.
 
 ---
 
-### 🗂️ SQL — Marketing Campaign Analysis  
+### 🗂️ SQL: Marketing Campaign Analysis  
 A collection of SQL queries exploring engagement, conversions, and ROI.  
 Includes joins, aggregations, filtering, and insight summaries.
 
@@ -68,7 +68,7 @@ Includes joins, aggregations, filtering, and insight summaries.
 
 ---
 
-### 📈 Tableau — Gen Z Behaviour Dashboard  
+### 📈 Tableau: Gen Z Behaviour Dashboard  
 An interactive dashboard visualising student trends, preferences, and engagement.  
 Built using filters, parameters, and custom visuals.
 
