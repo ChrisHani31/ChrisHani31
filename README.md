@@ -15,14 +15,14 @@ LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
 
 ## 🛠️ Tools & Skills  
 <p>
-<img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" height="22">
-<img src="https://img.shields.io/badge/-SQL-CC2927?logo=databricks&logoColor=white&style=flat-square" height="22">
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" height="22">
-<img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" height="22">
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="22">
+<img src="https://img.shields.io/badge/-?logo=microsoft-excel&style=flat&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/-?logo=databricks&style=flat&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/-?logo=python&style=flat&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/-?logo=tableau&style=flat&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/-?logo=powerbi&style=flat&logoColor=black" height="22">
 <img src="https://img.shields.io/badge/-?logo=sap&style=flat&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/-?logo=google-cloud&style=flat&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/-?logo=clojure&style=flat&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/-?logo=google-cloud&style=flat&logoColor=white" height="22"> <!-- PLM -->
+<img src="https://img.shields.io/badge/-?logo=clojure&style=flat&logoColor=white" height="22"> <!-- CLO-Set -->
 </p>
 
 Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
