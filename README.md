@@ -5,7 +5,6 @@
 
 
 ## Hi, I’m Chris👋
-<br>
 An aspiring Data Analyst who's looking to join this ever-growing industry and pull up my sleeves on day one. Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion projects to view.
 
 ## Discover more about me 👇
