@@ -22,6 +22,12 @@ Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set 
 Turning raw datasets into clear tables, PivotCharts, and interactive dashboards.  
 Skills include: formatting, formulas, PivotTables, slicers, and trend analysis.
 
+<br>
+Insights:
+Adults aged 35–64 show the highest purchase volume.
+Adults aged 25–34 follow closely, indicating strong mid‑career spending.
+Youth under 25 have the lowest totals, suggesting lower disposable income
+
 ### 🧩 SQL / MySQL Workbench  
 Building and querying databases using **CREATE**, **SELECT**, **UPDATE**, **DELETE**, joins, filtering, and aggregation.  
 Used for campaign analysis, customer insights, and structured data exploration.
