@@ -83,6 +83,15 @@ Includes joins, aggregations, filtering, and insight summaries.
 An interactive dashboard visualising student trends, preferences, and engagement.  
 Built using filters, parameters, and custom visuals.
 
+## 📌 Overview
+This project visualises percentage change across UK sub‑industries and maps the geographic distribution of change across major cities. It combines a horizontal bar chart with a UK location map to highlight where growth or decline is concentrated.
+
+## 📊 Key Insights
+- Water collection, treatment, and supply shows the strongest positive change.
+- Mining support services also demonstrate significant growth.
+- Several manufacturing sectors show mixed or negative movement.
+- Geographic mapping reveals clusters of higher change in specific UK regions.
+
 👉 **View Project:** (add link once repo is created)
 
 ---
