@@ -90,6 +90,3 @@ A combined bar chart + UK map showing percentage change across sub‑industries 
 
 
 ---
-
-
-- Python   -
