@@ -97,8 +97,4 @@ This project visualises percentage change across UK sub‑industries and maps th
 ---
 
 
-
-- Tableau  - 
-- Power BI - 
-- SQL     -
 - Python   -
