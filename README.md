@@ -84,7 +84,7 @@ An interactive dashboard visualising student trends, preferences, and engagement
 Built using filters, parameters, and custom visuals.
 
 UK Industry Change Analysis  
-A combined bar chart + UK map showing percentage change across sub‑industries and city locations.  
+ - A combined bar chart + UK map showing percentage change across sub‑industries and city locations.  
 👉 **View Project:** [To further explain](https://github.com/ChrisNjoroge/uk-industry-change-analysis)
 
 
