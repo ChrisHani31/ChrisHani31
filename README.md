@@ -7,13 +7,13 @@
 ## Hey, I’m Chris👋
 An aspiring Data Analyst who's looking to join this ever-growing industry and pull up my sleeves on day one. Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion projects to view.
 
-## Discover more about me, let's have a chat 👇
+## 👇 Discover more about me, let's have a chat 
  
 
 LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/)   •  E-mail: chrisnjoroge61@gmail.com
 
 
-## 🛠️ Tools & Skills  
+## 🛠️ Tools  
 <p>
 <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" height="20">
 <img src="https://img.shields.io/badge/-SQL-CC2927?logo=databricks&logoColor=white&style=flat-square" height="20">
@@ -22,8 +22,9 @@ LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="20">
 </p>
 
+## 🌟 Skills
 
-Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
+SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
 
 <br>
 
