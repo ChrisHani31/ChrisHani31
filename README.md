@@ -90,7 +90,10 @@ UK Industry Change Analysis
 
 [UK Industry Change Map](uk-tableau-analysis.png) 
 
-![Screenshot](iuk-tableau-analysis.png)
 
 
 ---
+
+
+
+
