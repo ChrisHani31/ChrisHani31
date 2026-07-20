@@ -75,7 +75,7 @@ Includes data cleaning, EDA, clustering, and visualisation.
 A collection of SQL queries exploring engagement, conversions, and ROI.  
 Includes joins, aggregations, filtering, and insight summaries.
 
-👉 **View Project:** (add link once repo is created)
+👉 **View Project:** [Database Entity Relationship Diagram](sql-image.png) 
 
 ---
 
